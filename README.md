@@ -1,4 +1,6 @@
 # Boxology
+A parametric box for Feather, Grove, Pi Zero, QT Py, Xiao, etc.
+
 In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology).
 
 ## Preview
