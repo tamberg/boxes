@@ -3,7 +3,7 @@ In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology
 
 - Box_146x30x27 — a parametric box for short USB cables, jumper wires, pens, etc.
 - Box_73x60x35 — a parametric box for electronics like Feather, Grove, Pi Zero, QT Py, Xiao, etc.
-- Box_73x180x34.5 — a parametric box for bigger tools, the size of 3 Box_73x60x35.
+- Box_73x180x34.5 — a parametric box for bigger tools, the size of 3 * Box_73x60x35.
 
 ## Preview
 <img src="https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg"/><br/>
