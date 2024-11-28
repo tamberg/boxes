@@ -3,9 +3,10 @@ In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology
 
 ```console
 $ cd boxology
-$ ls OpenScad/*/*/*.stl
-$ ls OpenScad/*/*/*.3mf
-$ ls OpenScad/*/*/*.gcode
+$ cat Box.scad # uncomment as needed
+$ ls OpenScad/*/*/*.stl # 3D Model, mm
+$ ls OpenScad/*/*/*.3mf # Prusa Slicer
+$ ls OpenScad/*/*/*.gcode # Prusa Mini
 $ tree
 .
 ├── OpenScad
