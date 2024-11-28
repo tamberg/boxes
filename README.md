@@ -2,6 +2,7 @@
 In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology).
 
 ```console
+$ cd boxology
 $ ls OpenScad/*/*/*.stl
 $ ls OpenScad/*/*/*.3mf
 $ ls OpenScad/*/*/*.gcode
