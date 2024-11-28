@@ -3,7 +3,7 @@ In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology
 
 ## Preview
 <img src="https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg"/><br/>
-One of many [fotos](https://flickr.com/photos/tamberg/albums/72177720322230844/with/54153425718).
+One of many [photos](https://flickr.com/photos/tamberg/albums/72177720322230844/with/54153425718).
 
 ## How to
 ```console
