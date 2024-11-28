@@ -2,9 +2,9 @@
 In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology).
 
 ## Preview
-https://live.staticflickr.com/65535/54169058514_a38c50f677.jpg![image](https://github.com/user-attachments/assets/bc38ae81-6861-4957-9cb7-b77bbd95f1a1)
+<img src="https://live.staticflickr.com/65535/54169058514_a38c50f677.jpg"/>
 
-https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg![image](https://github.com/user-attachments/assets/dc633883-fc60-46bf-bac8-fba6f69d671f)
+<img src="https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg"/>
 
 ## How to
 ```console
