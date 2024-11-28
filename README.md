@@ -2,8 +2,6 @@
 In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology).
 
 ## Preview
-<img src="https://live.staticflickr.com/65535/54169058514_a38c50f677.jpg"/>
-
 <img src="https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg"/>
 
 ## How to
