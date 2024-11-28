@@ -1,12 +1,18 @@
 # Boxology
 In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology).
 
+## Preview
+https://live.staticflickr.com/65535/54169058514_a38c50f677.jpg![image](https://github.com/user-attachments/assets/bc38ae81-6861-4957-9cb7-b77bbd95f1a1)
+
+https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg![image](https://github.com/user-attachments/assets/dc633883-fc60-46bf-bac8-fba6f69d671f)
+
+## How to
 ```console
 $ cd boxology
-$ cat Box.scad # uncomment as needed
-$ ls OpenScad/*/*/*.stl # 3D Model, mm
-$ ls OpenScad/*/*/*.3mf # Prusa Slicer
-$ ls OpenScad/*/*/*.gcode # Prusa Mini
+$ cat Box.scad # parametric, as needed
+$ ls OpenScad/*/*/*.stl # 3D model, mm
+$ ls OpenScad/*/*/*.3mf # Prusa slicer
+$ ls OpenScad/*/*/*.gcode # Prusa mini
 $ tree
 .
 ├── OpenScad
