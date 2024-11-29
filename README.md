@@ -4,7 +4,7 @@ In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology
 - [Box_73x60x35](OpenScad/Box_73x60x35) — a set of boxes for electronics like Feather, Grove, Pi Zero, QT Py, Xiao, etc.
 - [Box_73x180x34.5](OpenScad/Box_73x180x34.5) — a set of boxes for bigger tools, 3 * Box_73x60x35, stronger walls.
 - [Box_146x30x27](OpenScad/Box_146x30x27) — a set of boxes for short USB cables, jumper wires, pens, etc.
-- [Box.scad](OpenScad/Box.scad) — the parametric design that produced the above as STL.
+- [Box.scad](OpenScad/Box.scad) — the parametric design that produced all of these boxes.
 
 ## Preview
 <img src="https://live.staticflickr.com/65535/54169023418_5afeb15fe2.jpg"/><br/>
