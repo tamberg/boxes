@@ -1,4 +1,4 @@
-# Boxology
+# Boxes
 In the tradition of [SGMK Boxology](https://wiki.sgmk-ssam.ch/index.php/Boxology).
 
 - [Box_73x60x35](OpenScad/Box_73x60x35) — a set of boxes for electronics like Feather, Grove, Pi Zero, QT Py, Xiao, etc.
