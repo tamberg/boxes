@@ -288,8 +288,11 @@ module rotho_box_packed4(wx, wy, h) {
 
 // 34.5 + 2 => 36.5
 // 1.25 * 1.6 => 2
-round_box_matrix(wx, 3 * wy, 34.5, 8, 1.6, 1, 1);
+//round_box_matrix(wx, 3 * wy, 34.5, 8, 1.6, 1, 1);
 //round_cover(wx, 3 * wy, 8, 1.6);
+
+round_box_matrix(2 * wx, wy, 34.5, 8, 1.6, 1, 1);
+//round_cover(2 * wx, wy, 8, 1.6);
 
 //rotho_box_packed(wx, wy, h);
 //rotho_box_packed2(wx, wy, h);
