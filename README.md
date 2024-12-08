@@ -30,6 +30,9 @@ $ tree
 │   │       ├── Box_146x30x27_2x1.3mf
 │   │       ├── Box_146x30x27_2x1.stl
 │   │       └── Box_146x30x27_2x1_0.4n_0.2mm_PLA_MINI_1h30m.gcode
+│   ├── Box_146x60x34.5
+│   │   └── 1x1
+│   │       └── Box_146x60x34.5_1x1.stl
 │   ├── Box_73x180x34.5
 │   │   └── 1x1
 │   │       ├── Box_73x180x34.5_1x1.3mf
@@ -100,21 +103,25 @@ $ tree
 │   │   │   ├── Box_73x60x35_4x4.3mf
 │   │   │   ├── Box_73x60x35_4x4.stl
 │   │   │   └── Box_73x60x35_4x4_0.4n_0.2mm_PLA_MINI_4h2m.gcode
-│   │   └── Grove2
-│   │       ├── Box_73x60x35_Grove2.3mf
-│   │       ├── Box_73x60x35_Grove2.stl
-│   │       └── Box_73x60x35_Grove2_0.4n_0.2mm_PLA_MINI_1h58m.gcode
-│   ├── Cover_146x30
+│   │   ├── Grove2
+│   │   │   ├── Box_73x60x35_Grove2.3mf
+│   │   │   ├── Box_73x60x35_Grove2.stl
+│   │   │   └── Box_73x60x35_Grove2_0.4n_0.2mm_PLA_MINI_1h58m.gcode
+│   │   └── STL
+│   ├── Cover_143x60x2
+│   │   └── 1x1
+│   │       └── Cover_143x60x2_1x1.stl
+│   ├── Cover_146x30x1.5
 │   │   └── 1x1
 │   │       ├── Cover_146x30x1.5_1x1.3mf
 │   │       ├── Cover_146x30x1.5_1x1.stl
 │   │       └── Cover_146x30x1.5_1x1_0.4n_0.2mm_PLA_MINI_37m.gcode
-│   ├── Cover_73x180
+│   ├── Cover_73x180x2
 │   │   └── 1x1
 │   │       ├── Cover_73x180x2_1x1.3mf
 │   │       ├── Cover_73x180x2_1x1.stl
 │   │       └── Cover_73x180x2_1x1_0.4n_0.2mm_PLA_MINI_1h57m.gcode
-│   └── Cover_73x60
+│   └── Cover_73x60x1.5
 │       └── 1x1
 │           ├── Cover_73x60x1.5_1x1.3mf
 │           ├── Cover_73x60x1.5_1x1.stl
