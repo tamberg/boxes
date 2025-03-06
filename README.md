@@ -108,9 +108,9 @@ $ tree
 │   │   │   ├── Box_73x60x35_Grove2.stl
 │   │   │   └── Box_73x60x35_Grove2_0.4n_0.2mm_PLA_MINI_1h58m.gcode
 │   │   └── STL
-│   ├── Cover_143x60x2
+│   ├── Cover_146x60x2
 │   │   └── 1x1
-│   │       └── Cover_143x60x2_1x1.stl
+│   │       └── Cover_146x60x2_1x1.stl
 │   ├── Cover_146x30x1.5
 │   │   └── 1x1
 │   │       ├── Cover_146x30x1.5_1x1.3mf
